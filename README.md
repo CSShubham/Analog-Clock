@@ -2,8 +2,7 @@
 
 A beautiful and functional **Analog Clock** built using **HTML, CSS, and JavaScript**, featuring a smooth real-time display and a toggle for **Dark Mode**. This project demonstrates DOM manipulation, CSS transforms, and theme switching — all without any libraries or frameworks.
 
-![Clock Screenshot1](./Screenshots/Capture.PNG) ![Clock Screenshot2](./Screenshots/Capture2.PNG)
-
+<img src="./Screenshots/Capture.PNG" alt="Image 1" width="150" style="margin-right:20px;" /> <img src="./Screenshots/Capture2.PNG" alt="Image 2" width="150" />
 
 ## ✨ Features
 
