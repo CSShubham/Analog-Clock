@@ -20,8 +20,8 @@ A beautiful and functional **Analog Clock** built using **HTML, CSS, and JavaScr
 
 ## 📂 Project Structure
 
-analog-clock/
-├── index.html # Main HTML file
-├── style.css # Styles for light and dark themes
-├── script.js # Clock logic and theme toggle
-└── Screenshots # Image used in the README
+analog-clock/  
+├── index.html # Main HTML file  
+├── style.css # Styles for light and dark themes  
+├── script.js # Clock logic and theme toggle  
+└── Screenshots # Image used in the README  
